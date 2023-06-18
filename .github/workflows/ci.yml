@@ -16,7 +16,7 @@ jobs:
   
     steps:
       - name: Clone repository
-        uses: quanshoulong@gmail.com
+quanshoulong@gmail.com
 12310010
       - name: Auto green
         run: |
